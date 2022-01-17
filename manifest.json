@@ -1,11 +1,11 @@
 {
-    "name": "violetrabbit_app",
-    "short_name": "violetrabbit_app",
+    "name": "Demo Virtual Event",
+    "short_name": "virtualevent_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Demo Virtual Event WOW",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
